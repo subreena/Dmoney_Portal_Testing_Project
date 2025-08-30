@@ -27,13 +27,14 @@ Portal Link: https://dmoneyportal.roadtocareer.net/
 
 ## Api Documentation: https://documenter.getpostman.com/view/12885463/2sB3Hhrh57
 
-## Testcase Report:
+## Testcase Report: <a href= "https://docs.google.com/spreadsheets/d/1Mb8NAyLgbriY9oHq_eWT3fTnyXP__Lga/edit?usp=sharing&ouid=114143908846834533694&rtpof=true&sd=true"> Click here to see report</a>
 
 ## Bug Report:
 
 ## Newman Report:
 
 <img width="1358" height="1161" alt="screencapture-file-D-SQA-Dmoney-Assignment-on-PostMan-reports-report-html-2025-08-30-20_52_05" src="https://github.com/user-attachments/assets/c5863a77-ff17-4b74-bc99-a75535489fcb" />
+
 
 
 
